@@ -1,0 +1,29 @@
+{
+    "name": "ent-hc",
+    "version": "0.0.0",
+    "homepage": "https://github.com/llanzo/ent-hc",
+    "authors": [
+        "llanzo <llanzo@entrinsik.com>"
+    ],
+    "description": "internal custom bower config for highcharts to include advanced chart types and functions",
+    "main": [
+        "../highcharts/modules/funnel.js",
+    	"../highcharts/modules/drilldown.js",
+    	"../highcharts/highcharts-3d.js"
+    ],
+    "keywords": [
+        "ent-hc"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "highcharts": "bower"
+    }
+}
