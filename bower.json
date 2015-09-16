@@ -7,9 +7,9 @@
     ],
     "description": "internal custom bower config for highcharts to include advanced chart types and functions",
     "main": [
-        "../highcharts/modules/funnel.js",
-    	"../highcharts/modules/drilldown.js",
-    	"../highcharts/highcharts-3d.js"
+        "../highcharts/modules/funnel.src.js",
+    	"../highcharts/modules/drilldown.src.js",
+    	"../highcharts/highcharts-3d.src.js"
     ],
     "keywords": [
         "ent-hc"
