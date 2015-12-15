@@ -9,7 +9,8 @@
     "main": [
         "../highcharts/modules/funnel.src.js",
     	"../highcharts/modules/drilldown.src.js",
-    	"../highcharts/highcharts-3d.src.js"
+    	"../highcharts/highcharts-3d.src.js",
+    	"../highcharts/no-data-to-display.src.js"
     ],
     "keywords": [
         "ent-hc"
